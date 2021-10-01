@@ -1,0 +1,93 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+#body
+{
+    margin: 0;
+    border: none;
+}
+
+#cabeceira
+{
+    margin: 0;
+    height: 150px;
+    background-color: #01223D;
+    clear: both;
+    font-family: 'Gemunu Libre', sans-serif;
+}
+
+#home
+{
+    margin: 0;
+    height: 500px;
+    background-color: #013A65;
+}
+
+#sobre
+{
+    margin: 0;
+    height: 500px;
+    background-color: #3191D8;
+}
+
+#contato
+{
+    margin: 0;
+    height: 100px;
+    background-color: #01223D;
+}
+
+#logo
+{
+    float: left;
+}
+
+#logo img
+{
+    width: 40%;
+    margin-top: 8px;
+    margin-left: 5px;
+}
+
+#meuNome h1
+{
+    display: inline-block;
+    margin-top: 56px;
+    margin-left: 300px;
+    color: #AEDEFC;
+}
+
+#menu
+{
+    float: right;
+}
+
+#menu ul
+{
+    list-style: none;
+    margin-top: 20px;
+    margin-right: 40px;
+}
+
+#menu li
+{
+    display: inline-block;
+    margin: 9px;
+}
+
+#menu a
+{
+    text-decoration: none;
+    color: #AEDEFC;
+    text-transform: uppercase;
+    font-size: 25px;
+    font-weight: 300;
+}
+
+#menu a:hover
+{
+    color: #3191D8;
+}

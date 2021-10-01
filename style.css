@@ -17,6 +17,7 @@
     background-color: #01223D;
     clear: both;
     font-family: 'Gemunu Libre', sans-serif;
+    z-index: 1;
 }
 
 #home

@@ -119,7 +119,7 @@
     width: 60%;
     float: left;
     text-align: justify;
-    color: bisque;
+    color: #CCE9FC;
     margin: 25px;
     padding-top: 35px;
 }
@@ -159,14 +159,14 @@ figure, figure img
 {
     width: 40%;
     text-align: center;
-    color: blanchedalmond;
+    color: #CCE9FC;
 }
 
 .email fieldset
 {
     width: 100%;
     height: 90%;
-    color: blanchedalmond;
+    color: #CCE9FC;
     padding: 10px;
     text-align: center;
 }
@@ -187,4 +187,17 @@ figure, figure img
 .botaoEnviar
 {
     padding: 5px;
+}
+
+.redesSociais img
+{
+    width: 30%;
+    height: 30%;
+    margin: 70px 23px;
+    border: solid #CCE9FC;
+}
+
+.redesSociais h1
+{
+    margin-top: 30px;
 }

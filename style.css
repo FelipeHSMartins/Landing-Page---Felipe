@@ -34,6 +34,9 @@
     background-color: #013A65;
     width: 100%;
     display: flex;
+    font-family: 'Ephesis', cursive;
+    font-family: 'Gemunu Libre', sans-serif;
+    font-size: 20px;
 }
 
 #sobre
@@ -42,6 +45,9 @@
     background-color: #3191D8;
     width: 100%;
     display: flex;
+    font-family: 'Ephesis', cursive;
+    font-family: 'Gemunu Libre', sans-serif;
+    font-size: 20px;
 }
 
 #contato
@@ -51,6 +57,8 @@
     background-color: #01223D;
     width: 100%;
     display: flex;
+    font-family: 'Ephesis', cursive;
+    font-family: 'Gemunu Libre', sans-serif;
 }
 
 #logo

@@ -209,3 +209,32 @@ figure, figure img
 {
     margin-top: 30px;
 }
+
+.info
+{
+    font-weight: lighter;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.logoDeEmpresa
+{
+    width: 20px;
+    height: 20px;
+}
+
+.objetivos
+{
+    width: 50%;
+    float: right;
+}
+.texto ul
+{
+    list-style: none;
+}
+
+.ExpLabo
+{
+    width: 50%;
+    float: left;
+}
